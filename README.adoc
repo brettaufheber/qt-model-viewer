@@ -1,0 +1,12 @@
+= QtModelViewer
+
+QtModelViewer is a Qt5 and OpenGL example application, which shows how to view and edit Wavefront (obj) files and terrains from heightmaps.
+
+=== License
+
+Copyright (c) 2016 Eric Löffler
+
+This software is distributed under the terms and conditions of the GNU General Public License version 3.
+
+You can get a copy of the GNU General Public License here:
+_https://www.gnu.org/licenses/_

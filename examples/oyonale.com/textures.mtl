@@ -1,0 +1,12 @@
+
+newmtl map_pan
+map_Kd pan_map.jpg
+
+newmtl map_pitcher
+map_Kd pitcher_map.jpg
+
+newmtl map_toyplane
+map_Kd toyplane_map.jpg
+
+newmtl map_wateringcan
+map_Kd wateringcan_map.jpg

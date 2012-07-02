@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource>
+    <file>resources/forms/model.ui</file>
+    <file>resources/forms/material.ui</file>
+    <file>resources/icons/app.16x16.png</file>
+    <file>resources/icons/app.22x22.png</file>
+    <file>resources/icons/app.32x32.png</file>
+    <file>resources/icons/app.48x48.png</file>
+    <file>resources/icons/app.64x64.png</file>
+  </qresource>
+</RCC>
